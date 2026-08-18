@@ -1,0 +1,10 @@
+{
+  "min_length": 12,
+  "require_uppercase": true,
+  "require_lowercase": true,
+  "require_digits": true,
+  "require_symbols": true,
+  "blacklisted_substrings": [
+    "password", "admin", "welcome", "company", "summer", "winter", "12345"
+  ]
+}

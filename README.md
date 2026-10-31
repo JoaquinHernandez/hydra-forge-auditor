@@ -3,6 +3,9 @@ This project provides a unified orchestration engine that analyzes password list
 
 # ⚡ Hydra-Forge: Password Policy Auditor & Cracking Bridge
 
+<img width="1024" height="572" alt="image" src="https://github.com/user-attachments/assets/4eaff9de-6a6c-40bf-826f-4dbf0bdaa25d" />
+
+
 An auditing and wordlist optimization utility designed to evaluate credential corpuses against enterprise security standards (NIST SP 800-63B) and automatically generate attack masks for **Hashcat**, **John the Ripper**, and **THC-Hydra**.
 
 ---
